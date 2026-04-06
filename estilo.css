@@ -6,7 +6,7 @@ body {
 
 /* HEADER */
 header {
-  background: #0f0f0f;
+  background: linear-gradient(135deg, #e0f7ff, #89d4ff);
   color: #00c3ff;
   padding: 15px;
   text-align: center;
@@ -87,7 +87,7 @@ button:hover {
 
 /* Secciones */
 section:not(#inicio) {
-  background: #111;
+  background: linear-gradient(135deg, #e0f7ff, #89d4ff);
   margin: 20px;
   border-radius: 10px;
   box-shadow: 0 0 20px #00c3ff11;
