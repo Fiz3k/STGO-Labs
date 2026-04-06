@@ -1,20 +1,20 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background: #f4f4f4;
+  background: #f8f8f8;
 }
 
 /* HEADER */
 header {
-  background: #111;
-  color: white;
+  background: #fcfcfc;
+  color: rgb(47, 179, 255);
   padding: 15px;
   text-align: center;
 }
 
 /* NAV */
 nav a {
-  color: white;
+  color: rgb(59, 149, 246);
   margin: 10px;
   text-decoration: none;
   transition: 0.3s;
@@ -48,7 +48,7 @@ form {
 input, textarea {
   margin: 8px 0;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #14a9f4;
   border-radius: 5px;
 }
 
